@@ -1,4 +1,13 @@
-.sass-cache/
+# system, plugins, etc.
+.DS_Store
+.history
+.vscode
+.cache
+node_modules
+package-lock.json
+.gitignore
+
+#code
 *.css.map
 *.sass.map
 *.scss.map
